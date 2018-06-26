@@ -1,0 +1,84 @@
+body
+{
+  font-family: Open Sans,Arial;
+  color: #454545;
+  font-size: 16px;
+  margin: 2em auto;
+  max-width: 800px;
+  padding: 1em;
+  line-height: 1.4;
+  text-align: justify;
+}
+p.really
+{
+  margin-top: -1em;
+}
+blockquote
+{    color: #456;
+    margin-left: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.wrong
+{
+  color:#c0392b;
+ font-weight:600;
+}
+.fakepre
+{
+  font-family:monospace;
+ font-size:.9em;
+}
+.quatre
+{
+  color:#444;
+ font-weight:700;
+}
+.quatre:before
+{
+  content:"";
+ display:inline-block;
+ width:1em;
+ height:1em;
+ margin-left:.2em;
+ margin-right:.2em;
+ background-color:#444;
+}
+.quatreun
+{
+  color:#454545;
+ font-weight:700;
+}
+.quatreun:before
+{
+  content:"";
+display:inline-block;
+width:1em;
+height:1em;
+margin-left:.2em;
+margin-right:.2em;
+background-color:#454545;
+}
+.motherfucking
+{
+  color:#16a085;
+}
+.float .picture_left
+{
+  float: none;
+  width: inherit;
+}
+.citneed
+{
+  vertical-align:top;
+ font-size:.7em;
+ padding-left:.3em
+}
+.visited
+{
+  color:#941352
+}
+.visited-maroon
+{
+  color:#85144b
+}
